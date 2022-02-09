@@ -1,0 +1,24 @@
+{
+  "name": "searchandselect_angularjs",
+  "version": "0.0.1",
+  "description": "Dropdown directive for AngularJS: Includes server side pagination & search records.",
+  "main": "SearchAndSelect/angular-searchAndSelect.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thangaraja/searchandselect_angularjs.git"
+  },
+  "keywords": [
+    "angular-search",
+    "angular-select",
+    "dropdown"
+  ],
+  "author": "Thangaraja Chinnathambi <cthangaraja@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thangaraja/searchandselect_angularjs/issues"
+  },
+  "homepage": "https://github.com/thangaraja/searchandselect_angularjs#readme"
+}
